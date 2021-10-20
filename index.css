@@ -140,7 +140,7 @@ body {
 }
 .banner:first-child {
   justify-content: center;
-  background-image: url("/assets/banner1.png");
+  background-image: url("./assets/banner1.png");
   background-position: center center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -169,7 +169,7 @@ body {
   background: transparent;
 }
 .banner_background_image:last-child {
-  background-image: url("/assets/banner2.png");
+  background-image: url("./assets/banner2.png");
   background-position: center center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -293,7 +293,7 @@ body {
 .banner:nth-child(3) {
   position: relative;
   justify-content: flex-start;
-  background-image: url("/assets/bannner3.png");
+  background-image: url("./assets/bannner3.png");
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
