@@ -1,6 +1,20 @@
 @import url("//db.onlinewebfonts.com/c/d10313bfbb94a75c9b509dd406902a47?family=LuloCleanW01-OutlineBold");
+@import url("//db.onlinewebfonts.com/c/d10313bfbb94a75c9b509dd406902a47?family=LuloCleanW01-OutlineBold");
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
-
+@font-face {
+  font-family: "LuloCleanW01-OutlineBold";
+  src: url("//db.onlinewebfonts.com/t/d10313bfbb94a75c9b509dd406902a47.eot");
+  src: url("//db.onlinewebfonts.com/t/d10313bfbb94a75c9b509dd406902a47.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/d10313bfbb94a75c9b509dd406902a47.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/d10313bfbb94a75c9b509dd406902a47.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/d10313bfbb94a75c9b509dd406902a47.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/d10313bfbb94a75c9b509dd406902a47.svg#LuloCleanW01-OutlineBold")
+      format("svg");
+}
 :root {
   /* Colors: */
   --color-88b1c6: #88b1c6;
