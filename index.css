@@ -11,7 +11,7 @@
   --color-f1ece9: #f1ece9;
 
   /* Font/text values */
-  --font-family-lulo-clean-outline: LuloCleanW01-OutlineBold;
+  --font-family-lulo-clean-outline: "LuloCleanW01-OutlineBold";
   --font-family-Lato: "Lato", sans-serif;
 }
 * {
